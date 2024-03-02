@@ -1,5 +1,4 @@
-simple login system
-
+# simple login system
 
 data_base : list[tuple[str,int]] = [("qasim", "12345"),
                                 ("aqib", "54321"),
